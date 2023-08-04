@@ -9,12 +9,11 @@ We would like to create a multi-processing application based on the signals and 
  ## How 
  - Clone the repository to your local machine.
  - Make sure you have OpenGL installed  
-
+ - Then in terminal write: 
  ```
- cd IPC-under-linux-Project2/source_code
- make
  ./parent
  ```
+ (or you can use makefile to run the program)
  
 ## Languages And Tools:
 
